@@ -14,11 +14,17 @@ $ pip install -r requirements.txt
 Create configuration.ini with variable:
 
 result_slug = 
+
 data_path = 
+
 jql = 
+
 workbook_path = 
+
 jira_url = 
+
 login = 
+
 password = 
 
 ## Examples
