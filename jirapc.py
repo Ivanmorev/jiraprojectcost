@@ -16,7 +16,7 @@ jira_url = str(config.get("DEFAULT", "jira_url"))
 login = str(config.get("DEFAULT", "login"))
 password = str(config.get("DEFAULT", "password"))
 
-workbook_full_path = data_path + workbook_path
+workbook_full_path =  workbook_path
 
 workbook = load_workbook(filename = workbook_full_path)
 sheet = workbook.active
