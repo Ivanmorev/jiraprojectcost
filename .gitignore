@@ -1,4 +1,5 @@
 .idea
 data
 test-file.py
+configuration.ini
 __pycache__
